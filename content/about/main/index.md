@@ -6,26 +6,25 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
+  We believe that participatory workshops have the power to help bridge gaps and silos among algorithmic accountability practitioners.
+
+  We co-create unique experiences that empower meaningful cross-disciplinary participation. 
+
+  During our first year (2021-2022), we co-designed two unique workshop formats. 
+
+  (1) We built our MVP of three case study based workshops. They each centered case studies of impactful actions we find worth examining for algorithmic accountability practitioners: Twitter’s 2021 Bias Bounty, and the case of a Frye Motion involving ShotSpotter in Illinois courts. We used facilitation techniques inspired by [Open Post Academics’ participatory cross-disciplinary workshops](https://doi.org/10.5281/zenodo.6026972), by speculative design, and by community led storytelling. These workshops each culminated in group reflection on shared insights.
+
+  (2) We also built workshops around our own exploratory research data. From December 2021 to March 2022, ACL conducted research on algorithmic accountability practitioners through interviews and a survey. We wanted to see if we could design participatory workshops that invite participants of different background to collaborate on insights about qualitative interview and quantitative survey data. This resulted in two workshops including one at MozFest.
+
   We started as part of the first cohort of the [MozFest Civil Society Actors for Trustworthy AI in 2021-2022](https://foundation.mozilla.org/en/blog/making-trustworthy-ai-real/). 
   
-  Decisions made around AI systems need to face adequate scrutiny. However creating an ecosystem of accountability for AI systems is a complex and disorienting puzzle. Our community explores one of the roots of this complexity, the dizzying range of expertise involved: 
+  We held two workshops at [Mozilla Festival 2022](https://www.mozillafestival.org/en/), and one at [RightsCon 2022](https://www.rightscon.org).
 
-  * Disciplines as diverse as policy-making, public administration, law, ethics and social science to design, data science, engineering
-  * Subject matter areas as different as data stewardship, biomedical R&D, financial risk modeling, content moderation, labor, human rights law, criminal justice, surveillance, third party auditing, cybersecurity, ML ops, etc. 
+  We are committed to openness. We strive to release all our outputs under CC BY 4.0 attribution licenses.
   
-  We believe that participatory workshops have a place to play in helping the algorithmic accountability community tackle these challenges. 
-  
-  During our first year, we focused on workshops
-  Our solution involves case studies about specific real world AI accountability problems and solutions, but with a twist: we will build the case studies as collaborative events, in which we invite a cross-disciplinary group of participants to co-create strategic insights. Our hope is to build bridges across those expert groups through the experience of targeted, purposeful collaboration. 
-
-
-  
-  During our first year, we conducted
-  * 9 public facing participatory events (4 participatory meetups & 5 workshops, including 2 at MozFest 2022 and 1 at RightsCon 2022)
-  * A community driven agenda setting process (including identifying, researching case studies, and writing conference applications)
-  * 5 rounds of community driven workshop design
-  * Exploratory research (qualitative interviews (Dec 2021-Jan 2022); survey research (Feb 2022-March 2022))
-
+  Stay tuned for new ACL workshops starting in the Fall of 2022! Over time, we hope to turn this website into a resource for people interested in remixing and adapting our insights!
+   
+  You can read a detailed overview of our activities during our first year on the [document linked here.](https://docs.google.com/document/d/1wi-OsM4l2HCn-F0L_PomqkpncT5y9DCQF6db2eMwsCY/edit?usp=sharing) 
 
 
   

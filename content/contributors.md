@@ -3,8 +3,10 @@ description: Thank you to all our contributors!
 draft: false
 layout: standard
 show_title_as_headline: true
-title: Contributors
+title: Contributors and Governance
 ---
+
+# Contributors
 
 Thank you to all the folks who have contributed to this project! They are:
 
@@ -33,6 +35,8 @@ Thank you to all the folks who have contributed to this project! They are:
 * Bernease Herman
 * Bernd Durrwachter
 
+# Governance
 
+**Founder and Director**: [Borhane Blili-Hamelin](https://borhane.xyz)
 
-
+**Advisory Committee**: Gina Helfrich, Mrin Bhattacharya, Ranjit Singh, Shea Brown, Temi Popo, Tina Lassiter.
