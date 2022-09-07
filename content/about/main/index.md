@@ -22,11 +22,11 @@ intro: |
 
   We are committed to openness. We strive to release all our outputs under CC BY 4.0 attribution licenses.
   
-  Stay tuned for new ACL workshops starting in the Fall of 2022! Over time, we hope to turn this website into a resource for people interested in remixing and adapting our insights!
+  Over time, we hope to turn this website into a resource for people interested in remixing and adapting our insights!
    
   You can read a detailed overview of our activities during our first year on the [document linked here.](https://docs.google.com/document/d/1wi-OsM4l2HCn-F0L_PomqkpncT5y9DCQF6db2eMwsCY/edit?usp=sharing) 
-
-
+  
+  [To stay tuned about our next steps and our Fall 2022 workshops, sign up for our mailing list here.](https://forms.gle/5KvPCHECyjPHNUyX7) 
   
 show_outro: false
 outro: |
