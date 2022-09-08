@@ -16,7 +16,9 @@ intro: |
 
   (2) We also built workshops around our own exploratory research data. From December 2021 to March 2022, ACL conducted research on algorithmic accountability practitioners through interviews and a survey. We wanted to see if we could design participatory workshops that invite participants of different background to collaborate on insights about qualitative interview and quantitative survey data. This resulted in two workshops including one at MozFest.
 
-  We started as part of the first cohort of the [MozFest Civil Society Actors for Trustworthy AI in 2021-2022](https://foundation.mozilla.org/en/blog/making-trustworthy-ai-real/). 
+  Our founder and director is [Borhane Blili-Hamelin](https://borhane.xyz).
+  
+  We were selected to be part of the first cohort of the [MozFest Civil Society Actors for Trustworthy AI in 2021-2022](https://foundation.mozilla.org/en/blog/making-trustworthy-ai-real/). 
   
   We held two workshops at [Mozilla Festival 2022](https://www.mozillafestival.org/en/), and one at [RightsCon 2022](https://www.rightscon.org).
 
