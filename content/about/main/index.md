@@ -6,6 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
+  
   We believe that participatory workshops have the power to help bridge gaps and silos among algorithmic accountability practitioners.
 
   We co-create unique experiences that empower meaningful cross-disciplinary participation. 
@@ -16,6 +17,8 @@ intro: |
 
   (2) We also built workshops around our own exploratory research data. From December 2021 to March 2022, ACL conducted research on algorithmic accountability practitioners through interviews and a survey. We wanted to see if we could design participatory workshops that invite participants of different background to collaborate on insights about qualitative interview and quantitative survey data. This resulted in two workshops including one at MozFest.
 
+  *****
+  
   Our founder and director is [Borhane Blili-Hamelin](https://borhane.xyz).
   
   We were selected to be part of the first cohort of the [MozFest Civil Society Actors for Trustworthy AI in 2021-2022](https://foundation.mozilla.org/en/blog/making-trustworthy-ai-real/). 
