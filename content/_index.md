@@ -2,14 +2,14 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: We are an open community exploring participatory approaches to challenges in the algorithmic accountability space
-image_left: true
+description: We are an open community exploring participatory approaches to challenges in the algorithmic accountability space. Welcome to our website!
+image_left: false
 images:
 - img/usgs.jpg
 show_action_link: true
 show_social_links: true
 subtitle: 
-text_align_left: false
+text_align_left: true
 title: Accountability Case Labs
 type: home
 ---

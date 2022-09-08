@@ -1,4 +1,4 @@
-baseURL = "https://accountability-case-labs.netlify.app/"
+baseURL = "https://accountabilitycaselabs.xyz"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Accountability Case Labs"
@@ -31,8 +31,10 @@ enableEmoji = true
   orgName = "Accountability Case Labs"
   orgLocal = "Multiple"
   description = "We are an open community dedicated to connecting and building shared insights among algorithmic accountability practitioners"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  #favicon = "/img/favicon.ico"
+  favicon = "/img/turtle.png"
+  # logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/turtle.png"
   mainSections = ["talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -154,7 +156,7 @@ enableEmoji = true
     
   # Configure footer  
   [[menu.footer]]
-    name = "License"
+    name = "Credits"
     title = "License"
     url = "/license/"
     weight = 1
