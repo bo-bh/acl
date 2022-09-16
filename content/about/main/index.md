@@ -17,9 +17,12 @@ intro: |
 
   (2) We also built workshops around our own exploratory research data. From December 2021 to March 2022, ACL conducted research on algorithmic accountability practitioners through interviews and a survey. We wanted to see if we could design participatory workshops that invite participants of different background to collaborate on insights about qualitative interview and quantitative survey data. This resulted in two workshops including one at MozFest.
 
+  We also conduct research on challenges and pathways for increasing accountability for AI systems. 
   *****
   
   Our founder and director is [Borhane Blili-Hamelin](https://borhane.xyz).
+  
+  We are currently hosted within [Open Post Academics](https://openpostac.org/), which provides us with Zoom support, and with fiscal sponsorship status. [We are currently a fiscally sponsored 501(c)(3) project of the Open Collective Foundation.](https://opencollective.com/accountability-case-labs)
   
   We were selected to be part of the first cohort of the [MozFest Civil Society Actors for Trustworthy AI in 2021-2022](https://foundation.mozilla.org/en/blog/making-trustworthy-ai-real/). 
   

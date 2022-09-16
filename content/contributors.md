@@ -40,3 +40,5 @@ Thank you to all the folks who have contributed to this project! They are:
 **Founder and Director**: [Borhane Blili-Hamelin](https://borhane.xyz)
 
 **Advisory Committee**: Gina Helfrich, Mrin Bhattacharya, Ranjit Singh, Shea Brown, Temi Popo, Tina Lassiter.
+
+We are currently hosted within [Open Post Academics](https://openpostac.org/), which provides us with Zoom support, and with fiscal sponsorship status. [We are currently a fiscally sponsored 501(c)(3) project of the Open Collective Foundation.](https://opencollective.com/accountability-case-labs)
